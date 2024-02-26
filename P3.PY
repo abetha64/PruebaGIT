@@ -9,6 +9,7 @@ archivo.close()
 # abrir=open("fime2.txt","r")
 # abrir = abrir.read()
 # abrir.close()
+#holasoyalba
 
 archivo =open("archivorandom.txt")
 texto= archivo.read()
